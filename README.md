@@ -11,12 +11,12 @@ This tool streamlines the process of creating visual attack path documentation f
 
 ### Key Features
 
-- 🎯 **Clipboard Integration** - Load network diagrams directly from clipboard
-- 🎨 **Visual Attack Paths** - Draw red arrows with precise crosshair guides
-- 🏷️ **Attack Type Labels** - Categorize paths (Zone Breach, Lateral Movement, Privilege Escalation)
-- 🔄 **Dynamic Resizing** - Image and annotations scale automatically with window
-- 🗑️ **Easy Editing** - Right-click context menu to add/delete arrows
-- 📄 **PDF Export** - Save annotated diagrams at original resolution for reports
+- **Clipboard Integration** - Load network diagrams directly from clipboard
+- **Visual Attack Paths** - Draw red arrows with precise crosshair guides
+- **Attack Type Labels** - Categorize paths (Zone Breach, Lateral Movement, Privilege Escalation)
+- **Dynamic Resizing** - Image and annotations scale automatically with window
+- **Easy Editing** - Right-click context menu to add/delete arrows
+- **PDF Export** - Save annotated diagrams at original resolution for reports
 
 ## Installation
 
